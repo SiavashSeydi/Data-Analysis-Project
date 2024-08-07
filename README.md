@@ -4,7 +4,7 @@ This project analyzes video game sales data to uncover trends and insights. The 
 
 ## Dataset
 
-The dataset used for this project is `vgsales.csv`, which contains sales data of video games across various regions. The dataset can be found on Kaggle: [Video Game Sales Dataset](https://www.kaggle.com/datasets/gregorut/videogamesales).
+The dataset used for this project is `vgsales.csv`, which contains sales data of video games across various regions. The dataset can be found on Kaggle: [Video Game Sales Dataset](https://www.kaggle.com/datasets/gregorut/videogamesales). For data visualization using Tableau, check: [Visualizing Video Game Sales](https://public.tableau.com/views/VGsales_17229008193390/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Project Structure
 
