@@ -28,3 +28,4 @@ The dataset used for this project is `vgsales.csv`, which contains sales data of
 - matplotlib
 - seaborn
 - Jupyter Notebooks
+- path
