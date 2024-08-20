@@ -18,5 +18,6 @@
     "python.analysis.typeCheckingMode": "basic",
     "pylint.args": [
         "--disable=line-too-long"
-    ]
+    ],
+    "r.lsp.promptToInstall": false
 }
